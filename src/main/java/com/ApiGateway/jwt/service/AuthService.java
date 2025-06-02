@@ -1,9 +1,9 @@
 package com.ApiGateway.jwt.service;
 
-import com.gateway.jwt.dto.*;
-import com.gateway.jwt.model.Usuario;
-import com.gateway.jwt.repository.UsuarioRepository;
-import com.gateway.jwt.security.JwtUtil;
+import com.ApiGateway.jwt.dto.*;
+import com.ApiGateway.jwt.model.Usuario;
+import com.ApiGateway.jwt.repository.UsuarioRepository;
+import com.ApiGateway.jwt.security.JwtUtil;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.*;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.gateway.jwt.security;
+package com.ApiGateway.jwt.security;
 
 import jakarta.servlet.*;
 import jakarta.servlet.http.HttpServletRequest;

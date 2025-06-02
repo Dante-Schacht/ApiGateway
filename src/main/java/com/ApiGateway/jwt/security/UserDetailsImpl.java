@@ -1,6 +1,6 @@
 package com.ApiGateway.jwt.security;
 
-import com.gateway.jwt.model.Usuario;
+import com.ApiGateway.jwt.model.Usuario;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.GrantedAuthority;
